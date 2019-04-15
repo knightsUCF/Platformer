@@ -66,5 +66,15 @@ and that other voxel example on sketchfab
 
 * when we shake the tree we get apples, and maybe we get one or two more (randomized) apples on the next shake, and maybe even 1 apple on the third shake randomly, but after that no matter times how many times we shake the tree there will be no more apples
 
-* 
+* and of course we are going to need some enemies
+
+* make simple voxel enemies, contract the rigid body mess, on contraction
+
+* have to then make animations for the rigid bodies, see if can use the voxel animation asset
+
+* make projectile enemies, different types, different ranges
+
+* the enemies have random loot
+
+
 

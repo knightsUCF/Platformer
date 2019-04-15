@@ -161,3 +161,25 @@ if animations are difficult or the moene player controller, can use the santa co
 * review all the 50 camera mistakes from the Journey talk 
 
 A procedurally generated platformer... 
+
+
+Another classy Murakami esque thing that is hard to find -- abstract levels, like in the old dungeon levels
+
+We could procedurally generate almost escher like levels
+
+When we use light in the dungeon, that is almost enough to make those levels look good, combined with procedural generation there will be a lot of gameplay 
+
+
+How many levels? 
+
+how about 10?
+
+Or 5 to start? 
+
+1 - forest
+2 - dungeon
+3 - magic forest
+4 - ice world - penguins (lots of them, can't fight them but they all compete for space, while you're sliding off the platform (the physics should be easy), cool mechanic
+5 - dungeon 2
+
+Each level having their own unique characters adds to qualities of a visceral "real game" 

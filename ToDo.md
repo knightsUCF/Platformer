@@ -82,3 +82,12 @@ and that other voxel example on sketchfab
 * also have floating by voxel clouds
 
 * perhaps can even ride the voxel clouds, this adds to the classy strange Murakami esque and Tove Jansson aesthetic
+
+
+* other elements that are classy (sometimes hard to find):
+
+ * water (could be going up and down, or flooding the area)
+ 
+ * moving platforms
+ 
+ * cute abstract enemy creatures 

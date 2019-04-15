@@ -43,3 +43,19 @@
 * add power up abilities, like higher jumping allowing, or multiple jumping
 
 * what other things to do to finish one level?
+
+* choosing classy things are hard
+
+* include farming, since already have the script, just get the x and y position, let the player just plant the seeds
+
+* perhaps when they consume apples for health, they can then plant an apple tree
+
+* this also gives the world permance
+
+* as we shake the trees, we can get the fruit to plant those trees, perhaps we also have oranges
+
+* the trees grow relativly quick, and can then be used as ways of getting more health points if we are fighting a boss, or a tough patch of the game
+
+* simply show an "A" hovering above the tree, like the a bouncing in the cat game, copy and export that as a package, since that animation easing functionality is already set up, just show that when the player starts the game, so they know what to press
+
+

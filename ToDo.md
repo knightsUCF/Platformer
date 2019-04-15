@@ -202,3 +202,8 @@ Add the inventory bar from the previous game (already made as an exported packag
 - have some really nice smooth impressive combat
 
  - where we jump and can do directional attacks in the air, like dragon ball z, combined with the game feel video of vlambeer, and screenshake, just very smooth and impressive stuff, quick and elegant, a real game
+
+
+* spice up things by having the world turn like in Fez, so let's say the aesthetic is like a platformer where we are walking along in one direction, well let's say then that we get to the end of the hallway, and then we turn the camera and game around, allowing us to take a 90 degree angle, and then keep walking straight in the direction, like fez but better
+
+* we could even do a similar effect and apply that to an Escher level, where instead of just a 90 degree turn, we turn the world sideways, or upside down, and then we have a new gravity

@@ -78,3 +78,7 @@ and that other voxel example on sketchfab
 
 
 * also need some fancy physics especially ones where we can jump off walls
+
+* also have floating by voxel clouds
+
+* perhaps can even ride the voxel clouds, this adds to the classy strange Murakami esque and Tove Jansson aesthetic

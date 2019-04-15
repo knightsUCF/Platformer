@@ -93,3 +93,14 @@ and that other voxel example on sketchfab
  * cute abstract enemy creatures
  
  * add pause screen - start buttons - takes us into menu as an efficent pause, while also showing other options, including back to game option
+
+* take advantage of loot boxes
+
+* have the game be as visceral as possible
+
+* gold coins to collect, loot boxes, smooth graphics, for someone that just wants a real game
+
+* really take advantage of skinner boxes
+
+* fix the rotation on the platform so matches up with the player running direction, so we can keep running in a straight line on the platform
+

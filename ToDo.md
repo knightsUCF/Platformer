@@ -90,4 +90,6 @@ and that other voxel example on sketchfab
  
  * moving platforms
  
- * cute abstract enemy creatures 
+ * cute abstract enemy creatures
+ 
+ * add pause screen

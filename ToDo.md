@@ -58,4 +58,13 @@
 
 * simply show an "A" hovering above the tree, like the a bouncing in the cat game, copy and export that as a package, since that animation easing functionality is already set up, just show that when the player starts the game, so they know what to press
 
+* add a voxel brown floor to the platform kind of like here: https://www.google.com/search?q=sonic+levels&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiZof-U7NLhAhXsSt8KHc23CHwQ_AUIDigB&biw=1260&bih=674#imgrc=VGw3Cb2_jVRSjM:
+
+and that other voxel example on sketchfab
+
+* light fog, and lighting would help, but not sure if mobile can handle the post processing
+
+* when we shake the tree we get apples, and maybe we get one or two more (randomized) apples on the next shake, and maybe even 1 apple on the third shake randomly, but after that no matter times how many times we shake the tree there will be no more apples
+
+* 
 

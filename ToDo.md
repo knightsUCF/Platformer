@@ -104,3 +104,9 @@ and that other voxel example on sketchfab
 
 * fix the rotation on the platform so matches up with the player running direction, so we can keep running in a straight line on the platform
 
+* purchase the 99 animations pack for rpg character, for special abilities, but first check how animations work with the moenen controller
+
+* add A LOT of different weapon types
+
+* add projectile magic weapons, since those are in "real games" and add to the visceral experience
+

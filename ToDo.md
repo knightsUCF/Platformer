@@ -183,3 +183,6 @@ Or 5 to start?
 5 - dungeon 2
 
 Each level having their own unique characters adds to qualities of a visceral "real game" 
+
+
+Since the game will be a procedural rogue, add rare items which can only be collected on every other playthrough 

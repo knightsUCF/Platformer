@@ -197,4 +197,5 @@ Add the inventory bar from the previous game (already made as an exported packag
 
 - just having a shield to use could be a mechanic of getting through levels
 
+- also have classy orchestral music like Desplat and Wes Anderson, so even for the dungeon levels we could use some low timpany and nylon guitar rhythms (record guitar) like in the Grand Budapest Hotel 
 

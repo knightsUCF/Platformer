@@ -192,3 +192,9 @@ Add the inventory bar from the previous game (already made as an exported packag
 - really like that blocky villain creature from the moenen model collection, that kind of weird, super round, aesthetic
 
 - certain enemies have different ways of fighting, so you have to fight differently against them, which is where the rogue mastery comes in 
+
+- have some kind of safety mechanisms against speed running a level, so if a player tries to run and avoid the creatures as obstacles, perhaps that creatur will shoot a projectile to hurt them, if they have instead used their shield or something
+
+- just having a shield to use could be a mechanic of getting through levels
+
+

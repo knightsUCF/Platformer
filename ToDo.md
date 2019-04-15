@@ -199,3 +199,6 @@ Add the inventory bar from the previous game (already made as an exported packag
 
 - also have classy orchestral music like Desplat and Wes Anderson, so even for the dungeon levels we could use some low timpany and nylon guitar rhythms (record guitar) like in the Grand Budapest Hotel 
 
+- have some really nice smooth impressive combat
+
+ - where we jump and can do directional attacks in the air, like dragon ball z, combined with the game feel video of vlambeer, and screenshake, just very smooth and impressive stuff, quick and elegant, a real game

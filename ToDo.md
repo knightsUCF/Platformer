@@ -110,3 +110,54 @@ and that other voxel example on sketchfab
 
 * add projectile magic weapons, since those are in "real games" and add to the visceral experience
 
+* review the game feel video to make the projectile weapons more effective
+
+ * screen shake
+ 
+ * large clouds of effect
+ 
+ * very thick laser beams, multiple laser beams, faster
+ 
+ 
+ 
+Procedurally generate the levels!
+
+Can make custom rules... 
+
+Like as long as we know the random boundary of a platform we can extrapolate
+
+Build up the procedural rules from basics, for example:
+
+1) Generate a random platform
+
+2) On this random platform generate items and structures based on probability settings, making sure nothing overlaps
+
+3) Then get the end of the platform, and generate a random gap after this, afterwhich we generate the next platform
+
+4) And then on that next procedurally generated platform we generate items 
+
+5) and so 
+
+So first as an experiment and MVP, generate simply platforms with gaps one after the other
+
+1) generate random platform
+2) generate gap
+3) generate another platform after the gap
+
+
+So we have a procedurally generated rogue 3D platformer
+
+Have a really smooth difficulty curve, where later levels are as challening as the game from that Jon Blow video, where we will have lots moving objects that can cause damage
+
+The key is to simply have moving objects arranged differently, in the Spikes game, all they had was spikes, the same graphic everytime, so we can different graphics, but the point is that the basic mechanism is just to have lots of these moving objects around as an obstacle course to derive gameplay 
+
+we can also derive gameplay with the ingame economy / market / supply demand 
+
+
+
+if animations are difficult or the moene player controller, can use the santa controller, and either way get that cool spell effect, that would look nice lighting up the darkness
+
+
+* review all the 50 camera mistakes from the Journey talk 
+
+A procedurally generated platformer... 

@@ -190,3 +190,5 @@ Since the game will be a procedural rogue, add rare items which can only be coll
 Add the inventory bar from the previous game (already made as an exported package) to add to the visceral hoarding of a "real game"
 
 - really like that blocky villain creature from the moenen model collection, that kind of weird, super round, aesthetic
+
+- certain enemies have different ways of fighting, so you have to fight differently against them, which is where the rogue mastery comes in 

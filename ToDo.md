@@ -77,4 +77,4 @@ and that other voxel example on sketchfab
 * the enemies have random loot
 
 
-
+* also need some fancy physics especially ones where we can jump off walls

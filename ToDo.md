@@ -207,3 +207,7 @@ Add the inventory bar from the previous game (already made as an exported packag
 * spice up things by having the world turn like in Fez, so let's say the aesthetic is like a platformer where we are walking along in one direction, well let's say then that we get to the end of the hallway, and then we turn the camera and game around, allowing us to take a 90 degree angle, and then keep walking straight in the direction, like fez but better
 
 * we could even do a similar effect and apply that to an Escher level, where instead of just a 90 degree turn, we turn the world sideways, or upside down, and then we have a new gravity
+
+* this would be really cool for procedural level generation, since we wouldn't be able to speed run that fast since everytime we would have a new challenge, also imagine when the coins are revolving on the side, and then we turn the world, and collect the coins on the side, (using ambient occlusion and bloom the coins would look very nice rotating on the sides of the abstract structures, even simple stuff would work here)
+
+* try to study the work of that one escher game to check how they made that in terms of level design

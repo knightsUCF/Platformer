@@ -92,4 +92,4 @@ and that other voxel example on sketchfab
  
  * cute abstract enemy creatures
  
- * add pause screen
+ * add pause screen - start buttons - takes us into menu as an efficent pause, while also showing other options, including back to game option

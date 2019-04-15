@@ -188,3 +188,5 @@ Each level having their own unique characters adds to qualities of a visceral "r
 Since the game will be a procedural rogue, add rare items which can only be collected on every other playthrough 
 
 Add the inventory bar from the previous game (already made as an exported package) to add to the visceral hoarding of a "real game"
+
+- really like that blocky villain creature from the moenen model collection, that kind of weird, super round, aesthetic

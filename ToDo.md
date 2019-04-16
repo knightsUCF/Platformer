@@ -260,4 +260,9 @@ To help procedurally generate a fun world, the factors of platforming fun are:
 
 * study wario for aesthetic of platform design, take notes here
   
-  
+* we could lose the gravity momentarily, that would be a cool effect, some sort of switch, or even a power up, "antigravity power up", and then we can change the gravity in the engine
+
+* and can even change gravities direction, coming from one side, useful for Escher type levels
+
+* can even decrease the gravity for smoother jump movements
+

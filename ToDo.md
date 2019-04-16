@@ -222,3 +222,21 @@ Add the inventory bar from the previous game (already made as an exported packag
     Vector2 movementAimVector = new Vector2(CrossPlatformInputManager.GetAxis("Horizontal"), CrossPlatformInputManager.GetAxis("Vertical")) * moveForce; // not sure if we need moveForce, since the example is applying a force, but perhaps we could set the sensitivity here 
     
     * so can we just equate the move vector with the rotation of the character
+
+
+* most important To Dos are the basics:
+
+  * joystick smooth movement
+  
+  * rotation world (perhaps joystick smooth movement will fix this, although can still orient the world in this natural 45 degree angle rotation, instead of having to adjust, so perhaps do this one first)
+  
+  * can make the blocks wider
+  
+  * decrease the speed of the character
+  
+  * make collecting loot possible
+  
+  * make a procedural blue and green stretch
+  
+  
+  interesting feature: allow the user to set the level length by procedural design 

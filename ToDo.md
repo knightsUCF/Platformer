@@ -211,3 +211,7 @@ Add the inventory bar from the previous game (already made as an exported packag
 * this would be really cool for procedural level generation, since we wouldn't be able to speed run that fast since everytime we would have a new challenge, also imagine when the coins are revolving on the side, and then we turn the world, and collect the coins on the side, (using ambient occlusion and bloom the coins would look very nice rotating on the sides of the abstract structures, even simple stuff would work here)
 
 * try to study the work of that one escher game to check how they made that in terms of level design
+
+* similar voxel style as the character: https://sketchfab.com/3d-models/test-model-suspicious-mathuu-lookalike-9c473ff9076e43f8b24ed8ca511e2cc5
+
+* could make the little character from above as some sort of checkpoint, where we talk to him and he tells us a story 

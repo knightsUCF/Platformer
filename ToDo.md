@@ -228,7 +228,7 @@ Add the inventory bar from the previous game (already made as an exported packag
 
   * joystick smooth movement
   
-  * rotation world (perhaps joystick smooth movement will fix this, although can still orient the world in this natural 45 degree angle rotation, instead of having to adjust, so perhaps do this one first)
+  * rotation world (perhaps joystick smooth movement will fix this, although can still orient the world in this natural 45 degree angle rotation, instead of having to adjust, so perhaps do this one first) jot down this relative angle between the rotation on the block and also the camera, so if we change the camera angle in the future we have an idea of what to adjust for the rotation on the environment
   
   * can make the blocks wider
   

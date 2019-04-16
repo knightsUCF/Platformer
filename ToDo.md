@@ -258,6 +258,6 @@ To help procedurally generate a fun world, the factors of platforming fun are:
 
 * water moving through the middle and then down the sides, which could be the same size for now and simply be generated on random blocks
 
-* 
+* study wario for aesthetic of platform design, take notes here
   
   

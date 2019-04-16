@@ -274,6 +274,6 @@ To help procedurally generate a fun world, the factors of platforming fun are:
 
 * something bouncy would get a bounciness of .9 (for the physics material)
 
-* 
+* for super sliding set (friction direction?) to minimum or multiplay, and static and dynamic friction to low values, close to zero, 
 
 

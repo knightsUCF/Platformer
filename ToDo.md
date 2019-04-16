@@ -266,3 +266,7 @@ To help procedurally generate a fun world, the factors of platforming fun are:
 
 * can even decrease the gravity for smoother jump movements
 
+* sticky stuff (could be wobbling too) uses static friction at 39:00 https://www.youtube.com/watch?v=wKgKSg0Nr6A
+
+* sticky stuff could be a cool mechanic
+

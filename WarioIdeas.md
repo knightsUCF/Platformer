@@ -54,4 +54,4 @@ Things I’m noticing about Warrio
 - Perhaps have no counter, and just an inventory box on the bottom, where the start button is, in the center
 - Or to simply the game don’t even use inventory, maybe just a stick later
 - Snapping fish coming out of water is a good one for a level
-- 
+- "High replay value and solid adventure platformer"

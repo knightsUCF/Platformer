@@ -240,3 +240,13 @@ Add the inventory bar from the previous game (already made as an exported packag
   
   
   interesting feature: allow the user to set the level length by procedural design 
+  
+  On making levels
+  
+  At 3:50, they show the edges of how to make an island, high top, combined with other voxel aesthetic, make a modular block (don't even need magica voxel), simply make out of cubes, since we want this for modular design, color everything, and etc, and then try to "stretch out" when procedurally generating
+  
+https://www.youtube.com/watch?v=yKO1Q5QRZic
+
+Add some sense of aesthetic to the procedural generation, some overriding guiding rules for proportions, perhaps the 75% / 25% percent rule for aesthetic proportions
+  
+  

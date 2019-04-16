@@ -272,8 +272,8 @@ To help procedurally generate a fun world, the factors of platforming fun are:
 
 * heavy stuff would have a high friction of for example: .8, static friction .9?
 
-* something bouncy would get a bounciness of .9 (for the physics material)
+* something bouncy would get a bounciness of .9 (for the physics material), can set bounce to maximum
 
-* for super sliding set (friction direction?) to minimum or multiplay, and static and dynamic friction to low values, close to zero, 
+* for super sliding set (friction direction?) to minimum or multiplay, and static and dynamic friction to low values, close to zero,
 
 

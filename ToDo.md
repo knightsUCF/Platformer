@@ -220,3 +220,5 @@ Add the inventory bar from the previous game (already made as an exported packag
 * Joystick average at 11:42 of: https://www.youtube.com/watch?v=nGYObojmkO4
 
     Vector2 movementAimVector = new Vector2(CrossPlatformInputManager.GetAxis("Horizontal"), CrossPlatformInputManager.GetAxis("Vertical")) * moveForce; // not sure if we need moveForce, since the example is applying a force, but perhaps we could set the sensitivity here 
+    
+    * so can we just equate the move vector with the rotation of the character

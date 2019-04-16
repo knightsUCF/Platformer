@@ -276,4 +276,4 @@ To help procedurally generate a fun world, the factors of platforming fun are:
 
 * for super sliding set (friction direction?) to minimum or multiplay, and static and dynamic friction to low values, close to zero,
 
-
+* a rock, a clump of rocks, small shrubbs, a log laying down, grass and the beaten path, those would add variety to the forest levels

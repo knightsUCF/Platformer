@@ -214,4 +214,9 @@ Add the inventory bar from the previous game (already made as an exported packag
 
 * similar voxel style as the character: https://sketchfab.com/3d-models/test-model-suspicious-mathuu-lookalike-9c473ff9076e43f8b24ed8ca511e2cc5
 
-* could make the little character from above as some sort of checkpoint, where we talk to him and he tells us a story 
+* could make the little character from above as some sort of checkpoint, where we talk to him and he tells us a story
+
+
+* Joystick average at 11:42 of: https://www.youtube.com/watch?v=nGYObojmkO4
+
+    Vector2 movementAimVector = new Vector2(CrossPlatformInputManager.GetAxis("Horizontal"), CrossPlatformInputManager.GetAxis("Vertical")) * moveForce; // not sure if we need moveForce, since the example is applying a force, but perhaps we could set the sensitivity here 

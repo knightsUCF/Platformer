@@ -248,5 +248,16 @@ Add the inventory bar from the previous game (already made as an exported packag
 https://www.youtube.com/watch?v=yKO1Q5QRZic
 
 Add some sense of aesthetic to the procedural generation, some overriding guiding rules for proportions, perhaps the 75% / 25% percent rule for aesthetic proportions
+
+
+To help procedurally generate a fun world, the factors of platforming fun are:
+
+* gaps (use 25% rule)
+
+* elevation, staircase (also use 75 / 25 rule)
+
+* water moving through the middle and then down the sides, which could be the same size for now and simply be generated on random blocks
+
+* 
   
   

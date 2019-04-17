@@ -110,7 +110,9 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 				base.BreakAttack();
 			}
 			if (prevFTime > prevBTime) {
-				AimMove.y = 1f;
+                // AimMove.y = 1f;
+                AimMove.y = CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue;
+
 			}
 		} else {
 			prevFTime = -1f;
@@ -123,8 +125,10 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 				base.BreakAttack();
 			}
 			if (prevBTime > prevFTime) {
-				AimMove.y = -1f;
-			}
+				// AimMove.y = -1f;
+                AimMove.y = CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue;
+
+            }
 		} else {
 			prevBTime = -1f;
 		}
@@ -135,8 +139,11 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 				base.BreakAttack();
 			}
 			if (prevLTime > prevRTime) {
-				AimMove.x = -1f;
-			}
+            
+                    // AimMove.x = -1f;
+                    AimMove.x = CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue;
+
+            }
 		} else {
 			prevLTime = -1f;
 		}
@@ -147,8 +154,10 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 				base.BreakAttack();
 			}
 			if (prevRTime > prevLTime) {
-				AimMove.x = 1f;
-			}
+				// AimMove.x = 1f;
+                AimMove.x = CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue;
+
+            }
 		} else {
 			prevRTime = -1f;
 		}

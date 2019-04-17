@@ -96,12 +96,17 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 	void MobileMovementUpdate()
 	{
 
-		AimMove = Vector2.zero;
+
+            AimMove = Vector2.zero;
+
+
+            float joystickVertical = CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue;
+            float joystickHorizontal = CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue;
 
 
 
-		
-		if (Input.GetKey(inputKey.Forward) ||  CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue > 0.0f) {
+
+            if (Input.GetKey(inputKey.Forward) ||  joystickVertical > 0.0f) {
 			
 			// Debug.Log(CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue);
 
@@ -111,7 +116,7 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 			}
 			if (prevFTime > prevBTime) {
                 // AimMove.y = 1f;
-                AimMove.y = CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue;
+                AimMove.y = joystickVertical;
 
 			}
 		} else {
@@ -119,21 +124,21 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 		}
 		
 
-		if (Input.GetKey(inputKey.Back) || CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue < 0.0f) {
+		if (Input.GetKey(inputKey.Back) || joystickVertical < 0.0f) {
 			if (prevBTime < 0f) {
 				prevBTime = Time.time;
 				base.BreakAttack();
 			}
 			if (prevBTime > prevFTime) {
 				// AimMove.y = -1f;
-                AimMove.y = CrossPlatformInputManager.VirtualAxisReference("Vertical").GetValue;
+                AimMove.y = joystickVertical;
 
             }
 		} else {
 			prevBTime = -1f;
 		}
 
-		if (Input.GetKey(inputKey.Left) || CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue < 0.0f) {
+		if (Input.GetKey(inputKey.Left) || joystickHorizontal < 0.0f) {
 			if (prevLTime < 0f) {
 				prevLTime = Time.time;
 				base.BreakAttack();
@@ -141,21 +146,21 @@ public sealed class PlayerBehaviour : CharacterBehaviour {
 			if (prevLTime > prevRTime) {
             
                     // AimMove.x = -1f;
-                    AimMove.x = CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue;
+                    AimMove.x = joystickHorizontal;
 
             }
 		} else {
 			prevLTime = -1f;
 		}
 
-		if (Input.GetKey(inputKey.Right) || CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue > 0.0f) {
+		if (Input.GetKey(inputKey.Right) || joystickHorizontal > 0.0f) {
 			if (prevRTime < 0f) {
 				prevRTime = Time.time;
 				base.BreakAttack();
 			}
 			if (prevRTime > prevLTime) {
 				// AimMove.x = 1f;
-                AimMove.x = CrossPlatformInputManager.VirtualAxisReference("Horizontal").GetValue;
+                AimMove.x = joystickHorizontal;
 
             }
 		} else {

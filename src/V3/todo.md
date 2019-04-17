@@ -24,3 +24,8 @@ Features:
 - animated enemy going back and forth (can be just a block for now), if we touch the enemy we lose
 
 - if we jump on enemy they die, plus then they respawn
+
+
+Another fun thing to do is secrets
+
+

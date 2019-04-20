@@ -55,6 +55,11 @@ public class DestructibleBlock : MonoBehaviour
 
 		*/
 
+		Screenshake.Shake(0.25f, .2f);
+
+		// also add audio
+
+
 		SelfDestructBig(transform); // select is trigger // add tf
 		
 		// Destroy(Block);
@@ -88,6 +93,22 @@ public class DestructibleBlock : MonoBehaviour
 
 		Fragment(tf, BlockFragment1);
 		Fragment(tf, BlockFragment2);
+
+
+
+
+		/* recursive because we collide with other colliders
+
+		int len = Random.Range(6, 14);
+		
+		for (int i = 0; i < len; i++) {
+			Fragment(tf, BlockFragment1);
+			if (i < len * 0.3f) {
+				Fragment(tf, BlockFragment2);
+			}
+		}
+		*/
+
 
 
 
